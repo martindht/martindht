@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 😄
+✨ About me
+- Master's student studying computer science
+- Completed B.S. in Economics (Econometrics & Quant Economics)
+- Interested in Software Engineering, Data Science, and building new things
+
+🌱 Personal Interests
+- Solo Travel
+- House music 
+- Formula 1 and college football (Hook 'Em! 🤘)
 
 <!--
 **martindht/martindht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

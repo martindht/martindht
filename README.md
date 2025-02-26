@@ -2,7 +2,7 @@
 ✨ About me
 - Master's student studying computer science
 - Completed B.S. in Economics (Econometrics & Quant Economics)
-- Interested in Software Engineering, Data Science, and building new things
+- Interested in software engineering, data Ssience, and building new things
 
 🌱 Personal Interests
 - Solo travel

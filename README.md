@@ -5,7 +5,7 @@
 - Interested in Software Engineering, Data Science, and building new things
 
 🌱 Personal Interests
-- Solo Travel
+- Solo travel
 - House music 
 - Formula 1 and college football (Hook 'Em! 🤘)
 

@@ -1,7 +1,7 @@
 ## Hi there! 😄
 ✨ About me
-- Master's student studying Computer Science
-- Completed B.S. in Economics (Econometrics & Quant Economics)
+- Master's student studying Computer Science (MCIT)
+- Completed B.S. in Economics
 - Interested in Software Engineering, Data Science, and building new things
 
 🌱 Personal Interests
